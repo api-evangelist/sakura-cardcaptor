@@ -1,0 +1,32 @@
+aid: sakura-cardcaptor
+name: Sakura CardCaptor
+description: "Sakura CardCaptor Cards Information"
+url: https://github.com/JessVel/sakura-card-captor-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Sakura CardCaptor
+    description: "Sakura CardCaptor Cards Information"
+    humanURL: https://github.com/JessVel/sakura-card-captor-api
+    baseURL: https://github.com/JessVel/sakura-card-captor-api
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://github.com/JessVel/sakura-card-captor-api
+common:
+  - type: Website
+    url: https://github.com/JessVel/sakura-card-captor-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
