@@ -33,13 +33,12 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Entertainment
 apis:
   - name: Sakura CardCaptor
     description: "Sakura CardCaptor Cards Information"
     humanURL: https://github.com/JessVel/sakura-card-captor-api
-    baseURL: https://github.com/JessVel/sakura-card-captor-api
     tags:
       - Games And Comics
     properties:
@@ -53,3 +52,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
