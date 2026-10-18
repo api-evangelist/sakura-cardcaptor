@@ -39,7 +39,8 @@ apis:
   - name: Sakura CardCaptor
     description: "Sakura CardCaptor Cards Information"
     humanURL: https://github.com/JessVel/sakura-card-captor-api
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
